@@ -69,7 +69,7 @@ startSesi()
 start(`1`, `Connecting...`)
 } else if (connection === "open") {
 success(`1`, `Tersambung`)
-VarelTzy.sendMessage(`2347063956321@s.whatsapp.net`, { text: `✅ 𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻𝟐 𝐈𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 
+VarelTzy.sendMessage(`2347049602299@s.whatsapp.net`, { text: `✅ 𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻𝟐 𝐈𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 
 ★ *SCRIPT BELONGS TO PREXZY*
 ★ 𝐃𝐎 𝐍𝐎𝐓 𝐌𝐈𝐒 𝐔𝐒𝐄 𝐓𝐇𝐄 𝐁𝐎𝐓
 ★ 𝐈𝐍𝐂𝐀𝐒𝐄 𝐈𝐅 𝐁𝐀𝐍 𝐃𝐎 𝐍𝐎𝐓 𝐁𝐋𝐀𝐌𝐄 𝐓𝐇𝐄 𝐎𝐖𝐍𝐄𝐑
